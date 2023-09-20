@@ -93,6 +93,7 @@ export const GitHubButton = styled.a`
     }
     @media screen and (max-width: 768px) { 
     font-size: 14px;
+    height: 12%
     }
 `;
 
@@ -132,8 +133,9 @@ export const MobileMenu = styled.div`
     top: 80px;
     right: 0;
     width: 100%;
+    height: 80vh;
     padding: 12px 40px 24px 40px;
-    background: ${({ theme }) => theme.card_light + 99};
+    background: #191924e5;
     transition: all 0.6s ease-in-out;
     transform: ${({ isOpen }) => (isOpen ? 'translateY(0)' : 'translateY(-100%)')};
     border-radius: 0 0 20px 20px;

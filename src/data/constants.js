@@ -169,19 +169,14 @@ export const projects = [
     description:
       "A cutting-edge website that's more than just your typical e-commerce platform. At its core, it's a dynamic hub driven by requests and API calls. What sets us apart? We've custom-built our robust backend using Ruby on Rails, complete with top-notch authentication and authorization features.",
     image:
-      "https://i.imgur.com/KJPNrxe.png",
+      "https://i.postimg.cc/76tf5fLp/land-rover-e-commerce.webp",
     tags: [
       "Full-Stack App",
       "React Js",
       "Redux",
-      "Netlify",
-      "User Auth",
       "UI/UX",
       "API Rest",
-      "Axiox",
       "Ruby on Rails",
-      "Devise",
-      "CanCanCan",
       "PostgreSLQ",
       "Database",
       "E-Commerce",
@@ -197,7 +192,7 @@ export const projects = [
     description:
       "Budget it! app is a mobile web application made in Ruby on Rails, using PostgreSQL as database storage, whit manages user authentication with Devise and authorization with CanCanCan. Where you can manage your budget: you have a list of transactions associated with a category so that you can see how much money you spent and on what.",
     image:
-      "https://i.imgur.com/gdgjd6o.png",
+      "https://i.postimg.cc/gkCLyXKp/budgetit.webp",
     tags: ["Ruby on Rails", "Database", "PostgreSQL", "Devise", "CanCanCan", "Rubocop", "Mobile"],
     category: "android app",
     github: "https://github.com/Danfall369/BudgetIt",
@@ -210,7 +205,7 @@ export const projects = [
     description:
       "This is a user-friendly web app that lets you explore a variety of rockets and missions for your space travel aspirations. With seamless integration of React and Redux, it fetches data from the Space X API, providing a wide range of rocket and mission options. Your selected choices are stored persistently using browser local storage, ensuring easy retrieval and review. Experience the thrill of selecting your dream rocket and mission.",
     image:
-      "https://media.licdn.com/dms/image/D4E2DAQHA4Oh3QPn_xQ/profile-treasury-image-shrink_800_800/0/1692608794149?e=1695769200&v=beta&t=nJpnQmMz2zLHsr2YdXaWJRLJAimT1J6RpqZwwqGFeSU",
+      "https://i.postimg.cc/YqGmmfY8/space-travelers.webp",
     tags: [
       "JavaScript",
       "React JS",
@@ -232,7 +227,7 @@ export const projects = [
     description:
       "innovative e-commerce platform built using React, featuring a seamless shopping experience. This project leverages the power of React's component-based architecture, utilizing props to efficiently manage states and interactions. Users can explore a diverse range of products and manage their carts.",
     image:
-      "https://i.imgur.com/kbZkhiw.png",
+      "https://i.postimg.cc/LsTqMyF4/grocery-store.webp",
     tags: ["Full-Stack App", "JavaScript", "React JS", "Sanity", "Stripe", "CSS", "React-Dom", "Mobile", "Responsive", "E-Commerce"],
     category: "web app",
     github: "https://github.com/Danfall369/grosery-store",
@@ -245,7 +240,7 @@ export const projects = [
     description:
       "is a comprehensive blog application that offers users the ability to create, edit, and delete their posts, interact with other users' posts through comments, and manage their profiles. This project utilizes the Devise gem for authentication and the CanCanCan gem for authorization, providing a secure and user-friendly experience.",
     image:
-      "https://media.licdn.com/dms/image/D4E2DAQE8BfkIynKhmg/profile-treasury-image-shrink_800_800/0/1692608265990?e=1695772800&v=beta&t=oXkNEIzQFqxbmd2ImpXP951ppy-KB0aFJqD-yW5xIqA",
+      "https://i.postimg.cc/rszRj5bV/blogapp.webp",
     tags: ["Ruby on Rails", "CSS", "Database", "PostgreSQL", "Devise", "CanCanCan", "UI/UX", "User Auth"],
     category: "web app",
     github: "https://github.com/Danfall369/Blog-app",
@@ -258,7 +253,7 @@ export const projects = [
     description:
       "This project involves developing a console application designed to assist users in maintaining a comprehensive record of various personal items such as books, music albums, and games. The entire system will be structured around a UML class diagram, ensuring a well-organized representation. The data will be stored in JSON files while also offering the option of utilizing a SQL database model for enhanced functionality and scalability.",
     image:
-      "https://media.licdn.com/dms/image/D4E2DAQFptBaGIuXBBw/profile-treasury-image-shrink_1920_1920/0/1692607250238?e=1695772800&v=beta&t=HZmCSgTOyYMwv9SIXYQrXWVagPFLw-tpmq44MVomlE4",
+      "https://i.postimg.cc/jqk75kwL/catalog-of-my-things.webp",
     tags: ["Ruby", "Terminal App", "Json", "Data Storage"],
     category: "machine learning",
     github: "https://github.com/Danfall369/Catalog-of-my-things",
@@ -271,7 +266,7 @@ export const projects = [
     description:
       "is an React/Redux immersive e-commerce web application that leverages the power of React and RESTful API requests to create a seamless shopping experience. This project showcases the development of a user-friendly interface for browsing and purchasing products from various categories, all while maintaining a minimalistic and responsive design.",
     image:
-      "https://i.imgur.com/471Mjev.png",
+      "https://i.postimg.cc/SR52vJFW/dfall-store.webp",
     tags: ["JavaScript", "React Js", "API Rest", "Axios", "Redux", "CSS", "Mobile", "Responsive", "E-Commerce"],
     category: "android app",
     github: "https://github.com/Danfall369/metrics-webapp",
@@ -284,7 +279,7 @@ export const projects = [
     description:
       " is a recipe search web app that allows users to find and save recipes based on their preferences. The app is built using JavaScript and utilizes ES6 syntax and modules to organize the codebase into smaller, reusable components. It follows best practices and language style guides to ensure code quality and maintainability. Webpack is used to bundle the application and its dependencies.",
     image:
-      "https://i.imgur.com/wTruBG9.png",
+      "https://i.postimg.cc/W4jDKBKf/food-truck.webp",
     tags: ["HTML", "CSS", "JavaScrip", "API Rest", "Axios", "Local Storage"],
     category: "web app",
     github: "https://github.com/J-C-S-V/capstone-project-module-2",
@@ -297,7 +292,7 @@ export const projects = [
     description:
       "is a dynamic and immersive web page designed to host an engaging seminar focused on criminalistics. The project showcases a seamless integration of HTML, CSS, and JavaScript to create an interactive and visually appealing platform for attendees.",
     image:
-      "https://i.imgur.com/E6jOgzV.png",
+      "https://i.postimg.cc/fy3kmDtk/forensic-seminar.webp",
     tags: ["HTML", "CSS", "JavaScrip", "Mobile", "Responsive", "ESlint"],
     category: "web app",
     github: "https://github.com/Danfall369/HTML-CSS-Capstone",
