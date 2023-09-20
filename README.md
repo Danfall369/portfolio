@@ -47,11 +47,11 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 
 ## 🚀 Live Demo & preview <a name="live-demo"></a>
 
-- ![Skills](https://i.imgur.com/6nA9tPN.png)
-- ![experience](https://i.imgur.com/I2F3xn2.png)
-- ![Projects](https://i.imgur.com/v1QyoWl.png)
-- ![Education](https://i.imgur.com/csfs4Ce.png)
-- ![Contac](https://i.imgur.com/wfGKXGd.png)
+![Skills](https://i.imgur.com/6nA9tPN.png)
+![experience](https://i.imgur.com/I2F3xn2.png)
+![Projects](https://i.imgur.com/v1QyoWl.png)
+![Education](https://i.imgur.com/csfs4Ce.png)
+![Contac](https://i.imgur.com/wfGKXGd.png)
 
 - _You can visit the live demo [here](https://)_
 
@@ -76,13 +76,13 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/danfall369/danfall-portfolio.git
+  git clone https://github.com/danfall369/portfolio.git
 ```
 
 Navigate to the project directory:
 
 ```sh
-  cd danfall-portfolio
+  cd portfolio
 ```
 
 Install the dependencies:
@@ -113,8 +113,10 @@ After installing and running the project locally, you can navigate through the d
 
 ## 👥 Authors <a name="author"></a>
 
-- GitHub: [Danfall369](https://github.com/Danfall369)
-- LinkedIn: [Danfall369](https://www.linkedin.com/in/danfall/)
+DANIEL FALCON
+
+- [GitHub](https://github.com/Danfall369)
+- [LinkedIn](https://www.linkedin.com/in/danfall/)
 
 <!-- FEATURES -->
 
