@@ -117,24 +117,37 @@ const ButtonGroup = styled.div`
 
 
 const ProjectCards = ({ project, setOpenModal }) => {
+    // Handle the click event for the Card
+    const handleCardClick = () => {
+        setOpenModal({ state: true, project });
+    };
+
+    // Prevent the click event from bubbling up to the Card
+    const handleButtonClick = (e) => {
+        e.stopPropagation();
+    };
+
     return (
-        <Card onClick={() => setOpenModal({ state: true, project: project })}>
+        <Card onClick={handleCardClick}>
             <Image src={project.image} />
             <Tags>
                 {project.tags?.map((tag, index) => (
-                    <Tag>{tag}</Tag>
+                    <Tag key={index}>{tag}</Tag>
                 ))}
             </Tags>
             <Details>
                 <Title>{project.title}</Title>
                 <Date>{project.date}</Date>
             </Details>
-            <ButtonGroup>
-                <Button dull href={project?.github} target="_blank">View Code</Button>
-                <Button href={project?.webapp} target="_blank">View Live App</Button>
-            </ButtonGroup>
+            {/* Buttons are wrapped in their own clickable elements */}
+            <div onClick={handleButtonClick}>
+                <ButtonGroup>
+                    <Button dull href={project?.github} target='_blank' rel='noopener noreferrer'>View Code</Button>
+                    <Button href={project?.webapp} target='_blank' rel='noopener noreferrer'>View Live App</Button>
+                </ButtonGroup>
+            </div>
         </Card>
-    )
-}
+    );
+};
 
 export default ProjectCards
