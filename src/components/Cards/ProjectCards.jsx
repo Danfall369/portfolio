@@ -130,8 +130,8 @@ const ProjectCards = ({ project, setOpenModal }) => {
                 <Date>{project.date}</Date>
             </Details>
             <ButtonGroup>
-                <Button dull href={project?.github} target='new'>View Code</Button>
-                <Button href={project?.webapp} target='new'>View Live App</Button>
+                <Button dull href={project?.github} target="_blank">View Code</Button>
+                <Button href={project?.webapp} target="_blank">View Live App</Button>
             </ButtonGroup>
         </Card>
     )
