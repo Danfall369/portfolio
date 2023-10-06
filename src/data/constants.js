@@ -127,7 +127,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://scontent.fccs8-1.fna.fbcdn.net/v/t39.30808-6/305751749_449624627270583_2289770462671144705_n.png?_nc_cat=105&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=Ch1GyqfYn5AAX-qVFZH&_nc_ht=scontent.fccs8-1.fna&oh=00_AfA3jyRA_7cJW14cl9DNEzDMO4takWo56W-GQlvwQuv2KA&oe=650E621C",
+    img: "https://avatars.githubusercontent.com/u/22550229?s=200&v=4",
     role: "Mentor (Volunteer)",
     company: "MICROVERSE",
     date: "Apr 2023 - Sep 2023",
@@ -153,7 +153,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://scontent.fccs8-1.fna.fbcdn.net/v/t39.30808-6/305751749_449624627270583_2289770462671144705_n.png?_nc_cat=105&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=Ch1GyqfYn5AAX-qVFZH&_nc_ht=scontent.fccs8-1.fna&oh=00_AfA3jyRA_7cJW14cl9DNEzDMO4takWo56W-GQlvwQuv2KA&oe=650E621C",
+    img: "https://avatars.githubusercontent.com/u/22550229?s=200&v=4",
     school: "MICROVERSE",
     date: "Feb 2023 - Sep 2023",
     desc: "Spends 1300+ hours mastering algorithms, data structures, and full-stack development while simultaneously developing projects with Ruby, Rails, JavaScript, React, and Redux and Developing skills in remote pair programming using GitHub, industry-standard git-flow, and daily standups to communicate and collaborate with international remote developers.",
